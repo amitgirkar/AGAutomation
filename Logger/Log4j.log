@@ -1,0 +1,9 @@
+2025/03/68 13:31:01.890 [main] INFO    logger.FlipkartSearchTestLogger -user is opening Chrome brower
+2025/03/68 13:31:04.645 [main] INFO    logger.FlipkartSearchTestLogger -user is being redirected to filpkart website
+2025/03/68 13:31:09.430 [main] INFO    logger.FlipkartSearchTestLogger -user has searched product called as mobile and clicked on enter button
+2025/03/68 13:31:14.042 [main] INFO    logger.FlipkartSearchTestLogger -after product got searched user has cleared search box
+2025/03/68 13:31:16.248 [main] INFO    logger.FlipkartSearchTestLogger -user has searched product called as smartwatch and clicked on enter button
+2025/03/68 13:31:20.932 [main] INFO    logger.FlipkartSearchTestLogger -after product got searched user has cleared search box
+2025/03/68 13:31:23.319 [main] INFO    logger.FlipkartSearchTestLogger -user has searched product called as laptop and clicked on enter button
+2025/03/68 13:31:27.827 [main] INFO    logger.FlipkartSearchTestLogger -after product got searched user has cleared search box
+2025/03/68 13:31:30.019 [main] INFO    logger.FlipkartSearchTestLogger -after searching the each product user has closed Chrome browser
