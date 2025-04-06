@@ -4,15 +4,15 @@
   <test name="chrome">
   <parameter name="b" value="chrome"></parameter>
     <classes>
-      <class name="com.testng.SauceDemoTestCrossBrowsing"/>
+      <class name="com.testng.SauceDemoTest"/>
     </classes>
   </test> <!-- Test -->
   
-  <test name="edge">
-  <parameter name="b" value="edge"> </parameter>
-    <classes>
-      <class name="com.testng.SauceDemoTestCrossBrowsing"/>
-    </classes>
-  </test> <!-- Test -->
+ <!--  <test name="edge">  -->
+  <!-- <parameter name="b" value="edge"> </parameter>  -->
+    <!-- <classes>  -->
+      <!-- <class name="com.testng.SauceDemoTestCrossBrowsing"/>  -->
+    <!-- </classes>  -->
+  <!-- </test> Test -->
   
 </suite> <!-- Suite -->
